@@ -4,6 +4,8 @@
 - 📫 How to reach me: @ https://www.instagram.com/ujen_tuladhar/
 - ⚡ Fun fact: I'm much more tidy in person than my codes;)
 
+  Happy coding ;)
+
 <!---
 Uzzznnn/Uzzznnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
